@@ -1,2 +1,2 @@
 # johnoo.github.io
-fun
+I am learning github pages
